@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore folders used by virtualenv
+bin/
+etc/
+share/
+
+# Virtual Environment Config File
+pyvenv.cfg
+
+# Ignoring vscode workspace settings
+.vscode/
